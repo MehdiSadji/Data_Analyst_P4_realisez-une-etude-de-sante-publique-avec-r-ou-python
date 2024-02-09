@@ -1,1 +1,8 @@
-# Data_Analyst_P4_realisez-une-etude-de-sante-publique-avec-r-ou-python
+# Réalisez une étude de santé publique avec Python
+## Livrable
+Le notebook Jupyter vous ayant permis de calculer/trouver l’ensemble des résultats demandés.
+
+## Compétences évaluées
+- Utiliser des librairies spécialisées pour les traitements data
+- Manipuler des DataFrames
+- Créer un environnement de développement
